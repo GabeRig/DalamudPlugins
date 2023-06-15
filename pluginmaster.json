@@ -12,7 +12,7 @@
       "LoadPriority": 0,
       "IconUrl": "https://github.com/GabeRig/DalamudPlugins/plugins/AuMachina/images/icon.png",
       "ImageUrls": [
-          "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/image1.png"
+          "https://github.com/GabeRig/DalamudPlugins/plugins/AuMachina/images/icon.png"
       ],
       "DownloadLinkInstall": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/AuMachina/latest.zip",
       "IsHide": false,
