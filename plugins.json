@@ -12,7 +12,7 @@
     "LoadPriority": 0,
     "IsTestingExclusive": false,
     "IconUrl": "https://github.com/GabeRig/Au-Machina/blob/master/Data/goat.png",
-    "ImageUrls": [].
+    "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkInstall": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/YesAlready/latest.zip",
