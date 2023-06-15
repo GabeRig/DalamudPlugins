@@ -1,0 +1,24 @@
+[
+  {
+    "Author": "Neon Bananas",
+      "Name": "Au Machina",
+      "Punchline": "Get this to do stuff for you.",
+      "Description": "Handy Plugin that mines Integral Logs for you, /aumachina",
+      "InternalName": "AuMachina",
+      "AssemblyVersion": "0.0.0.0",
+      "RepoUrl": "https://github.com/GabeRig/AuMachina",
+      "ApplicableVersion": "any",
+      "DalamudApiLevel": 6,
+      "LoadPriority": 0,
+      "IconUrl": "https://github.com/GabeRig/DalamudPlugins/plugins/AuMachina/images/icon.png",
+      "ImageUrls": [
+          "https://raw.githubusercontent.com/daemitus/WondrousTailsSolver/master/res/image1.png"
+      ],
+      "DownloadLinkInstall": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/AuMachina/latest.zip",
+      "IsHide": false,
+      "IsTestingExclusive": false,
+      "DownloadLinkTesting": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/AuMachina/latest.zip",
+      "DownloadLinkUpdate": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/AuMachina/latest.zip",
+      "DownloadCount": 0,
+      "LastUpdate": "1685581363"
+]
