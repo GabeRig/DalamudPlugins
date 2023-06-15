@@ -6,17 +6,17 @@
     "Description": "Handy Plugin that mines Integral Logs for you, /aumachina",
     "InternalName": "AuMachina",
     "AssemblyVersion": "0.0.0.1",
-    "RepoUrl": "https://github.com/GabeRig/DalamudPlugins/Au-Machina",
+    "RepoUrl": "https://github.com/GabeRig/DalamudPlugins/Au Machina",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 8,
     "LoadPriority": 0,
     "IsTestingExclusive": false,
-    "IconUrl": "https://github.com/GabeRig/DalamudPlugins/plugins/Au-Machina/images/icon.png",
+    "IconUrl": "https://github.com/GabeRig/DalamudPlugins/plugins/Au Machina/images/icon.png",
     "ImageUrls": [],
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/Au-Machina/latest.zip",
-    "DownloadLinkTesting": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/Au-Machina/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/Au-Machina/latest.zip"
+    "DownloadLinkInstall": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/Au Machina/latest.zip",
+    "DownloadLinkTesting": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/Au Machina/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/GabeRig/DalamudPlugins/raw/master/plugins/Au Machina/latest.zip"
   }
 ]
